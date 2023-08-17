@@ -1,6 +1,6 @@
 # Weather Web App
 
-![image](https://github.com/yusra05/Weather_Web_App/assets/112852251/eff22cbc-87e4-4781-a6a5-5b3fabf8e19b)
+![Screenshot (529)](https://github.com/yusra05/Weather_Web_App/assets/112852251/71586d5f-829f-4392-bff0-0aae0ccdaa2c)
 
 A user-friendly weather application that provides real-time forecasts and weather information using HTML, CSS, JavaScript, and the OpenWeatherMap API.
 
